@@ -21,7 +21,7 @@ javascript
  ```
 
 ## Contact 
-If you have any questions about this app, contact stfajardo@gmail.com 
+If you have any questions about the repo, open an issue or contact me directly at stfajardo@gmail.com. You can find more of my work at [stephtf](https://github.com/stephtf/).
 
 
 
